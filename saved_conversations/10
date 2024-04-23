@@ -1,0 +1,15 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : i am having headache.
+bot : - from how many days you are having headache.
+user : 2 days
+bot : - happy to help!
+user : i am having headache from 2 days.
+bot : - from how many days you are having headache.
+user : from so many days.
+bot : - if you are having problem from so many days so you have get the consultant from the doctor because if can be dangerous to your health.
+user : ok 
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : can you suggest me some doctors
+bot : - yes you can go to our website and book your appointment with the Doctor.
+user : ok thans
+bot : - happy to help!
